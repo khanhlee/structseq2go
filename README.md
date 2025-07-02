@@ -1,0 +1,1 @@
+# structseq2go
